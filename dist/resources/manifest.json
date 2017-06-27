@@ -1,0 +1,13 @@
+{
+    "name": "NottsJS",
+    "icons": [
+        {
+            "src": "resources/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#f8e100",
+    "background_color": "#f8e100",
+    "display": "standalone"
+}
